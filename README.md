@@ -2,8 +2,8 @@
 
 Projeto da gravadora Tapete Mágico Recordz.
 
-![GitHub top language](https://img.shields.io/github/languages/count/fernandorcoelho/record_label/) 
-![GitHub top language](https://img.shields.io/github/languages/top/fernandorcoelho/record_label/) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandorcoelho/record_label/) ![GitHub repo size](https://img.shields.io/github/repo-size/fernandorcoelho/nlw_omni_web)
+![GitHub top language](https://img.shields.io/github/languages/count/fernandorcoelho/record_label) 
+![GitHub top language](https://img.shields.io/github/languages/top/fernandorcoelho/record_label) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandorcoelho/record_label) ![GitHub repo size](https://img.shields.io/github/repo-size/fernandorcoelho/nlw_omni_web)
 
 ## 🚀 Tecnologias
 
