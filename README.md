@@ -1,4 +1,4 @@
-## Tapete Mágico Recordz
+# Tapete Mágico Recordz
 
 Projeto da gravadora Tapete Mágico Recordz.
 
@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Sobre o projeto 
 O Tapete Mágico Recordz é uma página da gravadora viçosense para apresentação e divulgação de seus serviços.
 
-# O projeto encontra-se em desenvolvimento.
+### O projeto encontra-se em desenvolvimento.
 
 ------------
 
