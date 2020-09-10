@@ -5,6 +5,13 @@ Projeto da gravadora Tapete Mágico Recordz.
 ![GitHub top language](https://img.shields.io/github/languages/count/fernandorcoelho/record_label) 
 ![GitHub top language](https://img.shields.io/github/languages/top/fernandorcoelho/record_label) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandorcoelho/record_label) ![GitHub repo size](https://img.shields.io/github/repo-size/fernandorcoelho/nlw_omni_web)
 
+<hr>
+#Link para acessar resultado do projeto:
+<br>
+<br>
+<a href="https://fernandorcoelho.github.io/login_screen/" target="_blank">Acesse Tela de Login</a>
+<hr>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
