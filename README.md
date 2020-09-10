@@ -9,7 +9,7 @@ Projeto da gravadora Tapete Mágico Recordz.
 Link para acessar progresso do projeto:
 <br>
 <br>
-<a href="https://fernandorcoelho.github.io/login_screen/" target="_blank">Acesse Tapete Mágico Recordz</a>
+<a href="https://record-label.vercel.app/" target="_blank">Acesse Tapete Mágico Recordz</a>
 <hr>
 
 ## 🚀 Tecnologias
