@@ -7,41 +7,35 @@ import "./styles.css";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Veja os artistas que já alçaram vôo conosco!</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="../../assets/images/img-9.jpg"
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
-              label="Adventure"
-              path="/services"
+              src={require("../../assets/images/img-4.jpeg")}
+              text="Toni Braki"
+              label="Rock 'n Roll/Pop Rock"
+              path="/products"
             />
             <CardItem
-              src="../../assets/images/img-2.jpg"
-              text="Travel through the Islands of Bali in a Private Cruise"
-              label="Luxury"
-              path="/services"
+              src={require("../../assets/images/img-1.jpg")}
+              text="Rickson"
+              label="Hip-hop Lo-fi/Raggae/EDM"
+              path="/products"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="../../assets/images/img-9.jpg"
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
-              label="Adventure"
-              path="/services"
-            />
-            <CardItem
-              src="../../assets/images/img-4.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Adventure"
+              src={require("../../assets/images/img-2.jpg")}
+              text="Hot Kiss"
+              label="Heavy Rock"
               path="/products"
             />
             <CardItem
-              src="../../assets/images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
-              label="Adrenaline"
-              path="/sign-up"
+              src={require("../../assets/images/img-3.jpg")}
+              text="Tolonei"
+              label="Heavy Metal"
+              path="/products"
             />
           </ul>
         </div>
