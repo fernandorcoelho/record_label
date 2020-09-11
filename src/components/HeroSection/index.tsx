@@ -28,7 +28,7 @@ const HeroSection: React.FC = () => {
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          NOSSO TRABALHO <i className="far fa-play-circle" />
+          CONHEÇA NOSSO TRABALHO <i className="far fa-play-circle" />
         </Button>
       </div>
     </div>
